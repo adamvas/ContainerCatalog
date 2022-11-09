@@ -39,4 +39,4 @@ jobs:
           app-name: 'ContQryTesting'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41F4CFCDFA9F440B842392C3F1AEEF76 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A5980BFB956A45EFB89C26A6117A0BA8 }}
