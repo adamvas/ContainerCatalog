@@ -39,4 +39,4 @@ jobs:
           app-name: 'ContainerCatalog'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D93A6DC1286B405289AA3E6AA624D3BA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED5318746B5F447795FCBCFBA9478E12 }}
